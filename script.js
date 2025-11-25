@@ -22,9 +22,6 @@ document.getElementById("b6").addEventListener("click", function() {
 document.getElementById("b7").addEventListener("click", function() {
   alert("Байланыс бөліміне өтіңіз!");
 });
-document.getElementById("b8").addEventListener("click", function() {
-  alert("Байланыс бөліміне өтіңіз!");
-});
 document.getElementById("b9").addEventListener("click", function() {
   alert("Байланыс бөліміне өтіңіз!");
 });
@@ -46,6 +43,3 @@ document.getElementById("b14").addEventListener("click", function() {
 document.getElementById("b15").addEventListener("click", function() {
   alert("Байланыс бөліміне өтіңіз!");
 });
-
-
-
